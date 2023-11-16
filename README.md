@@ -1,6 +1,3 @@
-
-# The repo is saved and converted to `.md` list of resources related to CS basics. The list is created by [Vlad Ten](https://twitter.com/vladnineplusone)
-
 # CS Base
 
 
@@ -49,3 +46,8 @@
 ---
 ## Other resources
 **[Website with a lot of resources to learn CS too](https://teachyourselfcs.com/)**  
+
+
+
+# Dislaimer
+The repo is just list of resources related to CS basics. The list is created by [Vlad Ten](https://twitter.com/vladnineplusone).
